@@ -36,7 +36,7 @@ En colaboración con **ClockworkPi** para pruebas en hardware real (uConsole CM4
 ## 📬 Contacto
 
 Si tienes hardware embebido, interés en colaborar o simplemente quieres hablar del proyecto:
-bernalmariano457@gmail.com
+
 
 **bernalmariano457@gmail.com**
 
